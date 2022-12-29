@@ -1,0 +1,6 @@
+D:\HSE\Work\Area\bin\Debug\Area.dll
+D:\HSE\Work\Area\bin\Debug\Area.pdb
+D:\HSE\Work\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+D:\HSE\Work\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+D:\HSE\Work\Area\obj\Debug\Area.dll
+D:\HSE\Work\Area\obj\Debug\Area.pdb
